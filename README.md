@@ -15,7 +15,7 @@ Tic-Tac-Toe is a simple yet classic game, now brought to the blockchain! This So
 3. **Check for Win/Draw**: The contract checks if a player has won or if the board is full.
 4. **End Game**: The contract finalizes the game when a player wins or the match ends in a draw.
 
-## Deployment Instructions
+## Deployment Instructions 
 To deploy this contract on an Ethereum-compatible blockchain:
 
 1. Install [Remix](https://remix.ethereum.org/) or use Hardhat/Foundry.
