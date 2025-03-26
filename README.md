@@ -13,7 +13,7 @@ Tic-Tac-Toe is a simple yet classic game, now brought to the blockchain! This So
 1. **Create a Game**: A player initializes a new game by specifying an opponent. 
 2. **Make a Move**: Players take turns placing their marks (X or O) on a 3x3 board.
 3. **Check for Win/Draw**: The contract checks if a player has won or if the board is full. 
-4. **End Game**: The contract finalizes the game when a player wins or the match ends in a draw.
+4. **End Game**: The contract finalizes the game when a player wins or the match ends in a draw. 
 
 ## Deployment Instructions 
 To deploy this contract on an Ethereum-compatible blockchain: 
