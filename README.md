@@ -7,7 +7,7 @@ Tic-Tac-Toe is a simple yet classic game, now brought to the blockchain! This So
 - **On-Chain Gameplay**: All moves are recorded on the blockchain.
 - **Turn-Based Logic**: Ensures fair play by enforcing correct turns.
 - **Win/Draw Detection**: Automatically determines the winner or if the game is a draw.
-- **No ETH Stakes**: This game is purely for fun, with no financial risks.  
+- **No ETH Stakes**: This game is purely for fun, with no financial risks.   
  
 ## How It Works
 1. **Create a Game**: A player initializes a new game by specifying an opponent. 
