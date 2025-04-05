@@ -18,7 +18,7 @@ Tic-Tac-Toe is a simple yet classic game, now brought to the blockchain! This So
 ## Deployment Instructions 
 To deploy this contract on an Ethereum-compatible blockchain:  
 
-1. Install [Remix](https://remix.ethereum.org/) or use Hardhat/Foundry.
+1. Install [Remix](https://remix.ethereum.org/) or use Hardhat/Foundry. 
 2. Deploy the contract using a Solidity-compatible environment.
 3. Interact with the contract via Remix or a front-end interface.
 
